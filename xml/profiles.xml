@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<entries>
+    <entry>
+        <id></id>
+		<title>Mega Real Estate</title>
+		<subtitle></subtitle>
+		<description></description>
+        <info></info>
+		<imageUrl></imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/profileThumb80x80.png</imageThumbUrl>
+		<imageBgUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageBgUrl>
+        <details></details>
+        <summary></summary>
+        <extraInfo></extraInfo>
+        <price></price>
+        <name></name>
+        <address>369 Columbia Ave Los Angeles, CA 90017</address>
+        <reviews></reviews>
+        <latitude></latitude>
+		<longitude></longitude>
+        <rating></rating>
+        <featured></featured>
+        <telNo>(323) 788-3110</telNo>
+        <checkInTime>Today 1:00 am - 2:00 pm</checkInTime>
+        <date></date>
+        <annotationDescription></annotationDescription>
+        <email>megareal@gmail.com</email>
+	</entry>
+    
+</entries>

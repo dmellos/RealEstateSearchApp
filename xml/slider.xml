@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<entries>
+    
+    <!-- Begin Entries -->
+    <entry>
+        <id>1</id>
+		<title>418 Central Prk West</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_001.jpg</imageThumbUrl>
+        <price>4,427</price>
+        <address>418 Central Prk West, 105, Manhattan</address>
+        <reviews>If you are searching for an apartment in Clementon or relocating to Blackwood, then come to Cherrywood and enjoy the best apartments in Clementon, NJ.</reviews>
+        <latitude>40.795457</latitude>
+		<longitude>-73.962151</longitude>
+        <featured>1</featured>
+        <telNo>(877) 957-5246</telNo>
+        <checkInTime>Today 3:00 am - 5:00 pm</checkInTime>
+        <date>January 22, 2013</date>
+        <categoryId></categoryId>
+        <zipCode>10025</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>1</rating>
+    </entry>
+    
+    <entry>
+        <id>2</id>
+		<title>66 E. 11 St.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_002.jpg</imageThumbUrl>
+        <price>4,591</price>
+        <address>66 E. 11 St., Manhattan</address>
+        <reviews>When we first walked to the apartments it was completely filthy...on the outside there was an old broken down vehicle next to our place and the door had ...</reviews>
+        <latitude>40.733041</latitude>
+		<longitude>-73.992181</longitude>
+        <featured>1</featured>
+        <telNo>(310) 272-8002</telNo>
+        <checkInTime>Today 4:00 am - 5:00 pm</checkInTime>
+        <date>Febuary 26,2013</date>
+        <categoryId></categoryId>
+        <zipCode>10002</zipCode>
+        <noOfRooms>20</noOfRooms>
+        <bathrooms>10</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>2</rating>
+    </entry>
+    <!-- End Entries -->
+    
+    
+</entries>

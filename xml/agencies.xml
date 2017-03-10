@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<entries>
+
+    <!-- Begin Entries -->
+    <entry>
+        <id></id>
+		<title>Awesome Agents</title>
+		<subtitle></subtitle>
+		<description></description>
+        <info></info>
+        
+        <details></details>
+        <summary></summary>
+        <extraInfo></extraInfo>
+        <price></price>
+        <name></name>
+        <address>2938 Lakefront Ave S, Seattle, WA</address>
+        
+        <latitude>34.056144</latitude>
+		<longitude>-118.263853</longitude>
+        <rating></rating>
+        <featured></featured>
+        <telNo>(323) 888-8888</telNo>
+        <email>Karyn@hmSOLD.com</email>
+        
+        <checkInTime></checkInTime>
+        <date></date>
+        <annotationDescription></annotationDescription>
+        <categoryId></categoryId>
+        <zipCode>90017</zipCode>
+        <zipCodeMin></zipCodeMin>
+        <zipCodeMax></zipCodeMax>
+        <noOfRooms></noOfRooms>
+        <bathrooms></bathrooms>
+        <apartmentType></apartmentType>
+        
+        <imageUrl></imageUrl>
+        <imageBgUrl></imageBgUrl>
+        <imageThumbUrl></imageThumbUrl>
+        
+        
+        <!-- Begin Images  -->
+        <images>
+            
+            <image>
+                <photoCoverUrl>images/sliderFeatured320x190_001.png</photoCoverUrl>
+                <photoImageUrl>images/agentThumb100x100.png</photoImageUrl>
+                <photoImageThumbUrl>images/listThumbRealtors50x50_001.png</photoImageThumbUrl>
+            </image>
+            
+        </images>
+        <!-- End Images -->
+        
+        
+        <!-- Begin Reviews -->
+        <reviews>
+            
+            <review>
+                <reviewName></reviewName>
+                <reviewImageUrl></reviewImageUrl>
+                <reviewImageThumbUrl></reviewImageThumbUrl>
+                <comment></comment>
+                <commentDate></commentDate>
+            </review>
+            
+        </reviews>
+        <!-- End Reviews -->
+        
+    </entry>
+    <!-- End Entries -->
+    
+    <!-- Begin Entries -->
+    <entry>
+        <id></id>
+		<title>Amazing Real Estate Agency</title>
+		<subtitle></subtitle>
+		<description></description>
+        <info></info>
+        
+        <details></details>
+        <summary></summary>
+        <extraInfo></extraInfo>
+        <price></price>
+        <name></name>
+        <address>18638 N Beadurey Ave, Los Angeles, CA</address>
+        
+        <latitude>34.076144</latitude>
+		<longitude>-118.283853</longitude>
+        <rating></rating>
+        <featured></featured>
+        <telNo>(323) 888-8888</telNo>
+        <email>me@timothybrown.net</email>
+        
+        <checkInTime></checkInTime>
+        <date></date>
+        <annotationDescription></annotationDescription>
+        <categoryId></categoryId>
+        <zipCode>90017</zipCode>
+        <zipCodeMin></zipCodeMin>
+        <zipCodeMax></zipCodeMax>
+        <noOfRooms></noOfRooms>
+        <bathrooms></bathrooms>
+        <apartmentType></apartmentType>
+        
+        <imageUrl></imageUrl>
+        <imageBgUrl></imageBgUrl>
+        <imageThumbUrl></imageThumbUrl>
+        
+        
+        <!-- Begin Images  -->
+        <images>
+            
+            <image>
+                <photoCoverUrl>images/sliderFeatured320x190_002.png</photoCoverUrl>
+                <photoImageUrl>images/agentThumb100x100.png</photoImageUrl>
+                <photoImageThumbUrl>images/listThumbRealtors50x50_002.png</photoImageThumbUrl>
+            </image>
+            
+        </images>
+        <!-- End Images -->
+        
+        
+        <!-- Begin Reviews -->
+        <reviews>
+            
+            <review>
+                <reviewName></reviewName>
+                <reviewImageUrl></reviewImageUrl>
+                <reviewImageThumbUrl></reviewImageThumbUrl>
+                <comment></comment>
+                <commentDate></commentDate>
+            </review>
+            
+        </reviews>
+        <!-- End Reviews -->
+        
+    </entry>
+    <!-- End Entries -->
+    
+    <!-- Begin Entries -->
+    <entry>
+        <id></id>
+		<title>Agents of Change</title>
+		<subtitle></subtitle>
+		<description></description>
+        <info></info>
+        
+        <details></details>
+        <summary></summary>
+        <extraInfo></extraInfo>
+        <price></price>
+        <name></name>
+        <address>2938 Lakefront Ave S, Seattle, WA</address>
+        
+        <latitude>34.076144</latitude>
+		<longitude>-118.363853</longitude>
+        <rating></rating>
+        <featured></featured>
+        <telNo>(323) 828-6358</telNo>
+        <email>info@aocnetwork.com</email>
+        
+        <checkInTime></checkInTime>
+        <date></date>
+        <annotationDescription></annotationDescription>
+        <categoryId></categoryId>
+        <zipCode>90017</zipCode>
+        <zipCodeMin></zipCodeMin>
+        <zipCodeMax></zipCodeMax>
+        <noOfRooms></noOfRooms>
+        <bathrooms></bathrooms>
+        <apartmentType></apartmentType>
+        
+        <imageUrl></imageUrl>
+        <imageBgUrl></imageBgUrl>
+        <imageThumbUrl></imageThumbUrl>
+        
+        
+        <!-- Begin Images  -->
+        <images>
+            
+            <image>
+                <photoCoverUrl>images/sliderFeatured320x190_003.png</photoCoverUrl>
+                <photoImageUrl>images/agentThumb100x100.png</photoImageUrl>
+                <photoImageThumbUrl>images/listThumbRealtors50x50_003.png</photoImageThumbUrl>
+            </image>
+            
+        </images>
+        <!-- End Images -->
+        
+        
+        <!-- Begin Reviews -->
+        <reviews>
+            
+            <review>
+                <reviewName></reviewName>
+                <reviewImageUrl></reviewImageUrl>
+                <reviewImageThumbUrl></reviewImageThumbUrl>
+                <comment></comment>
+                <commentDate></commentDate>
+            </review>
+            
+        </reviews>
+        <!-- End Reviews -->
+        
+    </entry>
+    <!-- End Entries -->
+    
+</entries>

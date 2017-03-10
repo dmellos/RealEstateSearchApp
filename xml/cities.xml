@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<entries>
+    
+    <entry>
+        <id>1</id>
+		<title>All Cities</title>
+		<subtitle></subtitle>
+		<description></description>
+        <info></info>
+        
+        <details></details>
+        <summary></summary>
+        <extraInfo></extraInfo>
+        <price></price>
+        <name></name>
+        <address></address>
+        
+        <latitude></latitude>
+		<longitude></longitude>
+        <rating></rating>
+        <featured></featured>
+        <telNo></telNo>
+        <checkInTime></checkInTime>
+        <date></date>
+        <annotationDescription></annotationDescription>
+        <categoryId></categoryId>
+        <zipCode></zipCode>
+        <zipCodeMin>-1</zipCodeMin>
+        <zipCodeMax>-1</zipCodeMax>
+        <selected>1</selected>
+        
+        <!-- Begin Images  -->
+        <images>
+            <image>
+                <photoImageUrl></photoImageUrl>
+                <photoImageThumbUrl></photoImageThumbUrl>
+            </image>
+        </images>
+        <!-- End Images -->
+        
+        
+        <!-- Begin Reviews -->
+        <reviews>
+            <review>
+                <reviewName></reviewName>
+                <reviewImageUrl></reviewImageUrl>
+                <reviewImageThumbUrl></reviewImageThumbUrl>
+                <comment></comment>
+            </review>
+        </reviews>
+        <!-- End Reviews -->
+        
+    </entry>
+    
+    <entry>
+        <id>2</id>
+		<title>San Francisco</title>
+		<subtitle></subtitle>
+		<description></description>
+        <info></info>
+        
+        <details></details>
+        <summary></summary>
+        <extraInfo></extraInfo>
+        <price></price>
+        <name></name>
+        <address></address>
+        
+        <latitude></latitude>
+		<longitude></longitude>
+        <rating></rating>
+        <featured></featured>
+        <telNo></telNo>
+        <checkInTime></checkInTime>
+        <date></date>
+        <annotationDescription></annotationDescription>
+        <categoryId></categoryId>
+        <zipCode></zipCode>
+        <zipCodeMin>94101</zipCodeMin>
+        <zipCodeMax>94161</zipCodeMax>
+        <selected>0</selected>
+        
+        <!-- Begin Images  -->
+        <images>
+            <image>
+                <photoImageUrl></photoImageUrl>
+                <photoImageThumbUrl></photoImageThumbUrl>
+            </image>
+        </images>
+        <!-- End Images -->
+        
+        
+        <!-- Begin Reviews -->
+        <reviews>
+            <review>
+                <reviewName></reviewName>
+                <reviewImageUrl></reviewImageUrl>
+                <reviewImageThumbUrl></reviewImageThumbUrl>
+                <comment></comment>
+            </review>
+        </reviews>
+        <!-- End Reviews -->
+        
+    </entry>
+    
+    <entry>
+        <id>3</id>
+		<title>Los Angeles</title>
+		<subtitle></subtitle>
+		<description></description>
+        <info></info>
+        
+        <details></details>
+        <summary></summary>
+        <extraInfo></extraInfo>
+        <price></price>
+        <name></name>
+        <address></address>
+        
+        <latitude></latitude>
+		<longitude></longitude>
+        <rating></rating>
+        <featured></featured>
+        <telNo></telNo>
+        <checkInTime></checkInTime>
+        <date></date>
+        <annotationDescription></annotationDescription>
+        <categoryId></categoryId>
+        <zipCode></zipCode>
+        <zipCodeMin>90001</zipCodeMin>
+        <zipCodeMax>91335</zipCodeMax>
+        <selected>0</selected>
+        
+        <!-- Begin Images  -->
+        <images>
+            <image>
+                <photoImageUrl></photoImageUrl>
+                <photoImageThumbUrl></photoImageThumbUrl>
+            </image>
+        </images>
+        <!-- End Images -->
+        
+        
+        <!-- Begin Reviews -->
+        <reviews>
+            <review>
+                <reviewName></reviewName>
+                <reviewImageUrl></reviewImageUrl>
+                <reviewImageThumbUrl></reviewImageThumbUrl>
+                <comment></comment>
+            </review>
+        </reviews>
+        <!-- End Reviews -->
+        
+    </entry>
+    
+    <entry>
+        <id>4</id>
+		<title>New York</title>
+		<subtitle></subtitle>
+		<description></description>
+        <info></info>
+        
+        <details></details>
+        <summary></summary>
+        <extraInfo></extraInfo>
+        <price></price>
+        <name></name>
+        <address></address>
+        
+        <latitude></latitude>
+		<longitude></longitude>
+        <rating></rating>
+        <featured></featured>
+        <telNo></telNo>
+        <checkInTime></checkInTime>
+        <date></date>
+        <annotationDescription></annotationDescription>
+        <categoryId></categoryId>
+        <zipCode></zipCode>
+        <zipCodeMin>10001</zipCodeMin>
+        <zipCodeMax>10292</zipCodeMax>
+        <selected>0</selected>
+        
+        <!-- Begin Images  -->
+        <images>
+            <image>
+                <photoImageUrl></photoImageUrl>
+                <photoImageThumbUrl></photoImageThumbUrl>
+            </image>
+        </images>
+        <!-- End Images -->
+        
+        
+        <!-- Begin Reviews -->
+        <reviews>
+            <review>
+                <reviewName></reviewName>
+                <reviewImageUrl></reviewImageUrl>
+                <reviewImageThumbUrl></reviewImageThumbUrl>
+                <comment></comment>
+            </review>
+        </reviews>
+        <!-- End Reviews -->
+        
+    </entry>
+    
+    <entry>
+        <id>5</id>
+		<title>Charlotte</title>
+		<subtitle></subtitle>
+		<description></description>
+        <info></info>
+        
+        <details></details>
+        <summary></summary>
+        <extraInfo></extraInfo>
+        <price></price>
+        <name></name>
+        <address></address>
+        
+        <latitude></latitude>
+		<longitude></longitude>
+        <rating></rating>
+        <featured></featured>
+        <telNo></telNo>
+        <checkInTime></checkInTime>
+        <date></date>
+        <annotationDescription></annotationDescription>
+        <categoryId></categoryId>
+        <zipCode></zipCode>
+        <zipCodeMin>28201</zipCodeMin>
+        <zipCodeMax>28216</zipCodeMax>
+        <selected>0</selected>
+        
+        <!-- Begin Images  -->
+        <images>
+            <image>
+                <photoImageUrl></photoImageUrl>
+                <photoImageThumbUrl></photoImageThumbUrl>
+            </image>
+        </images>
+        <!-- End Images -->
+        
+        
+        <!-- Begin Reviews -->
+        <reviews>
+            <review>
+                <reviewName></reviewName>
+                <reviewImageUrl></reviewImageUrl>
+                <reviewImageThumbUrl></reviewImageThumbUrl>
+                <comment></comment>
+            </review>
+        </reviews>
+        <!-- End Reviews -->
+        
+    </entry>
+    
+    <entry>
+        <id>6</id>
+		<title>Atlantic City</title>
+		<subtitle></subtitle>
+		<description></description>
+        <info></info>
+        
+        <details></details>
+        <summary></summary>
+        <extraInfo></extraInfo>
+        <price></price>
+        <name></name>
+        <address></address>
+        
+        <latitude></latitude>
+		<longitude></longitude>
+        <rating></rating>
+        <featured></featured>
+        <telNo></telNo>
+        <checkInTime></checkInTime>
+        <date></date>
+        <annotationDescription></annotationDescription>
+        <categoryId></categoryId>
+        <zipCode></zipCode>
+        <zipCodeMin>08401</zipCodeMin>
+        <zipCodeMax>08406</zipCodeMax>
+        <selected>0</selected>
+        
+        <!-- Begin Images  -->
+        <images>
+            <image>
+                <photoImageUrl></photoImageUrl>
+                <photoImageThumbUrl></photoImageThumbUrl>
+            </image>
+        </images>
+        <!-- End Images -->
+        
+        
+        <!-- Begin Reviews -->
+        <reviews>
+            <review>
+                <reviewName></reviewName>
+                <reviewImageUrl></reviewImageUrl>
+                <reviewImageThumbUrl></reviewImageThumbUrl>
+                <comment></comment>
+            </review>
+        </reviews>
+        <!-- End Reviews -->
+        
+    </entry>
+    
+    
+</entries>

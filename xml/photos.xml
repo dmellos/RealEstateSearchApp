@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<entries>
+    
+    <entry>
+        <id>1</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_001.jpg</imageThumbUrl>
+        <apartmentId>1</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>2</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_002.jpg</imageThumbUrl>
+        <apartmentId>1</apartmentId>
+	</entry>
+	
+    <entry>
+        <id>3</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_003.jpg</imageThumbUrl>
+        <apartmentId>1</apartmentId>
+	</entry>
+	
+    <entry>
+        <id>4</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_004.jpg</imageThumbUrl>
+        <apartmentId>2</apartmentId>
+	</entry>
+	
+    <entry>
+        <id>5</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_005.jpg</imageThumbUrl>
+        <apartmentId>2</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>6</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_006.jpg</imageThumbUrl>
+        <apartmentId>3</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>7</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_007.jpg</imageThumbUrl>
+        <apartmentId>3</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>8</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_008.jpg</imageThumbUrl>
+        <apartmentId>4</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>9</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_009.jpg</imageThumbUrl>
+        <apartmentId>4</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>10</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_009.jpg</imageThumbUrl>
+        <apartmentId>5</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>11</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_010.jpg</imageThumbUrl>
+        <apartmentId>5</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>12</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_011.jpg</imageThumbUrl>
+        <apartmentId>6</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>13</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_012.jpg</imageThumbUrl>
+        <apartmentId>6</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>14</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_013.jpg</imageThumbUrl>
+        <apartmentId>7</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>15</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_014.jpg</imageThumbUrl>
+        <apartmentId>7</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>17</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_015.jpg</imageThumbUrl>
+        <apartmentId>9</apartmentId>
+        
+	</entry>
+    
+    <entry>
+        <id>18</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_001.jpg</imageThumbUrl>
+        <apartmentId>9</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>19</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_002.jpg</imageThumbUrl>
+        <apartmentId>10</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>20</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_003.jpg</imageThumbUrl>
+        <apartmentId>11</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>21</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_004.jpg</imageThumbUrl>
+        <apartmentId>12</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>22</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_005.jpg</imageThumbUrl>
+        <apartmentId>13</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>23</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_006.jpg</imageThumbUrl>
+        <apartmentId>14</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>24</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_007.jpg</imageThumbUrl>
+        <apartmentId>15</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>25</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_008.jpg</imageThumbUrl>
+        <apartmentId>16</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>26</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_009.jpg</imageThumbUrl>
+        <apartmentId>17</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>27</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_010.jpg</imageThumbUrl>
+        <apartmentId>18</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>28</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_011.jpg</imageThumbUrl>
+        <apartmentId>19</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>29</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_012.jpg</imageThumbUrl>
+        <apartmentId>20</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>21</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_013.jpg</imageThumbUrl>
+        <apartmentId>21</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>22</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_014.jpg</imageThumbUrl>
+        <apartmentId>22</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>23</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_015.jpg</imageThumbUrl>
+        <apartmentId>23</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>24</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_001.jpg</imageThumbUrl>
+        <apartmentId>24</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>25</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_002.jpg</imageThumbUrl>
+        <apartmentId>25</apartmentId>
+	</entry>
+	
+    <entry>
+        <id>26</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_003.jpg</imageThumbUrl>
+        <apartmentId>26</apartmentId>
+	</entry>
+	
+    <entry>
+        <id>27</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_004.jpg</imageThumbUrl>
+        <apartmentId>27</apartmentId>
+	</entry>
+	
+    <entry>
+        <id>28</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_005.jpg</imageThumbUrl>
+        <apartmentId>28</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>29</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_006.jpg</imageThumbUrl>
+        <apartmentId>29</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>30</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_007.jpg</imageThumbUrl>
+        <apartmentId>30</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>31</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_008.jpg</imageThumbUrl>
+        <apartmentId>31</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>32</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_009.jpg</imageThumbUrl>
+        <apartmentId>32</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>33</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_009.jpg</imageThumbUrl>
+        <apartmentId>32</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>34</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_010.jpg</imageThumbUrl>
+        <apartmentId>5</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>35</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_011.jpg</imageThumbUrl>
+        <apartmentId>6</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>36</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_012.jpg</imageThumbUrl>
+        <apartmentId>6</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>37</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_013.jpg</imageThumbUrl>
+        <apartmentId>7</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>38</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_014.jpg</imageThumbUrl>
+        <apartmentId>7</apartmentId>
+	</entry>
+    
+    <entry>
+        <id>39</id>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_015.jpg</imageThumbUrl>
+        <apartmentId>9</apartmentId>
+        
+	</entry>
+    
+    <entry>
+        <id>40</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_001.jpg</imageThumbUrl>
+        <apartmentId>9</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>41</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_002.jpg</imageThumbUrl>
+        <apartmentId>10</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>42</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_003.jpg</imageThumbUrl>
+        <apartmentId>11</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>43</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_004.jpg</imageThumbUrl>
+        <apartmentId>12</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>44</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_005.jpg</imageThumbUrl>
+        <apartmentId>13</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>45</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_006.jpg</imageThumbUrl>
+        <apartmentId>14</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>46</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_007.jpg</imageThumbUrl>
+        <apartmentId>15</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>47</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_008.jpg</imageThumbUrl>
+        <apartmentId>16</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>48</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_009.jpg</imageThumbUrl>
+        <apartmentId>17</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>49</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_010.jpg</imageThumbUrl>
+        <apartmentId>18</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>50</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_011.jpg</imageThumbUrl>
+        <apartmentId>19</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>51</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_012.jpg</imageThumbUrl>
+        <apartmentId>20</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>52</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_013.jpg</imageThumbUrl>
+        <apartmentId>21</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>53</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_014.jpg</imageThumbUrl>
+        <apartmentId>22</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>54</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_015.jpg</imageThumbUrl>
+        <apartmentId>23</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>55</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_001.jpg</imageThumbUrl>
+        <apartmentId>24</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>56</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_002.jpg</imageThumbUrl>
+        <apartmentId>25</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>57</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_003.jpg</imageThumbUrl>
+        <apartmentId>26</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>58</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_004.jpg</imageThumbUrl>
+        <apartmentId>27</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>59</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_005.jpg</imageThumbUrl>
+        <apartmentId>28</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>60</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_006.jpg</imageThumbUrl>
+        <apartmentId>29</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>61</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_007.jpg</imageThumbUrl>
+        <apartmentId>30</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>62</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_008.jpg</imageThumbUrl>
+        <apartmentId>31</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>63</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_009.jpg</imageThumbUrl>
+        <apartmentId>32</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>64</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_010.jpg</imageThumbUrl>
+        <apartmentId>33</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>65</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_011.jpg</imageThumbUrl>
+        <apartmentId>34</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>66</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_012.jpg</imageThumbUrl>
+        <apartmentId>35</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>67</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_013.jpg</imageThumbUrl>
+        <apartmentId>36</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>68</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_014.jpg</imageThumbUrl>
+        <apartmentId>37</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>69</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_015.jpg</imageThumbUrl>
+        <apartmentId>38</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>70</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_001.jpg</imageThumbUrl>
+        <apartmentId>39</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>71</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_002.jpg</imageThumbUrl>
+        <apartmentId>40</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>72</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_003.jpg</imageThumbUrl>
+        <apartmentId>41</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>73</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_004.jpg</imageThumbUrl>
+        <apartmentId>42</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>74</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_005.jpg</imageThumbUrl>
+        <apartmentId>43</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>75</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_006.jpg</imageThumbUrl>
+        <apartmentId>44</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>76</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_007.jpg</imageThumbUrl>
+        <apartmentId>45</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>77</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_008.jpg</imageThumbUrl>
+        <apartmentId>46</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>78</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_009.jpg</imageThumbUrl>
+        <apartmentId>47</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>79</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_010.jpg</imageThumbUrl>
+        <apartmentId>48</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>80</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_011.jpg</imageThumbUrl>
+        <apartmentId>49</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>81</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_012.jpg</imageThumbUrl>
+        <apartmentId>50</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>82</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_013.jpg</imageThumbUrl>
+        <apartmentId>51</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>83</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_014.jpg</imageThumbUrl>
+        <apartmentId>52</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>84</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_015.jpg</imageThumbUrl>
+        <apartmentId>53</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>85</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_001.jpg</imageThumbUrl>
+        <apartmentId>54</apartmentId>
+    </entry>
+    
+    <entry>
+        <id>86</id>
+        <imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_002.jpg</imageThumbUrl>
+        <apartmentId>55</apartmentId>
+    </entry>
+    
+</entries>

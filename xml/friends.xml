@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<entries>
+    
+    <!-- Begin New York -->
+    <entry>
+        <id>1</id>
+		<title>418 Central Prk West</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_001.jpg</imageThumbUrl>
+        <price>4,427</price>
+        <address>418 Central Prk West, 105, Manhattan</address>
+        <reviews>If you are searching for an apartment in Clementon or relocating to Blackwood, then come to Cherrywood and enjoy the best apartments in Clementon, NJ.</reviews>
+        <latitude>40.795457</latitude>
+		<longitude>-73.962151</longitude>
+        <featured>1</featured>
+        <telNo>(877) 957-5246</telNo>
+        <checkInTime>Today 3:00 am - 5:00 pm</checkInTime>
+        <date>January 22, 2013</date>
+        <categoryId></categoryId>
+        <zipCode>10025</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>1</rating>
+    </entry>
+    
+    <entry>
+        <id>2</id>
+		<title>66 E. 11 St.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_002.jpg</imageThumbUrl>
+        <price>4,591</price>
+        <address>66 E. 11 St., Manhattan</address>
+        <reviews>When we first walked to the apartments it was completely filthy...on the outside there was an old broken down vehicle next to our place and the door had ...</reviews>
+        <latitude>40.733041</latitude>
+		<longitude>-73.992181</longitude>
+        <featured>1</featured>
+        <telNo>(310) 272-8002</telNo>
+        <checkInTime>Today 4:00 am - 5:00 pm</checkInTime>
+        <date>Febuary 26,2013</date>
+        <categoryId></categoryId>
+        <zipCode>10002</zipCode>
+        <noOfRooms>20</noOfRooms>
+        <bathrooms>10</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>2</rating>
+    </entry>
+    
+    <entry>
+        <id>3</id>
+		<title>151 East 58th St.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_003.jpg</imageThumbUrl>
+        <price>6,066</price>
+        <address>151 East 58th St., Manhattan</address>
+        <reviews>Just imagine 12 adults and a 13, 9, 4 and 2 2-year olds being couped up for 5-6 days!!! The condominium was very clean (as was the other 3 rooms I have</reviews>
+        <latitude>40.762058</latitude>
+		<longitude>-73.967698</longitude>
+        <featured>1</featured>
+        <telNo>(212) 355-3550</telNo>
+        <checkInTime>Today 2:00 am - 6:00 pm</checkInTime>
+        <date>January 12,13</date>
+        <categoryId></categoryId>
+        <zipCode>10022</zipCode>
+        <noOfRooms>4</noOfRooms>
+        <bathrooms>6</bathrooms>
+        <apartmentType>Rentals</apartmentType>
+        <rating>3</rating>
+    </entry>
+    
+    <entry>
+        <id>4</id>
+		<title>25 East 77th St.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_004.jpg</imageThumbUrl>
+        <price>2,295</price>
+        <address>25 East 77th St. - Apt:, PH, Manhattan</address>
+        <reviews>The rooms need some work but overall its ok for the price and its right on the broadwalk.</reviews>
+        <latitude>40.7794</latitude>
+		<longitude>-73.962727</longitude>
+        <featured></featured>
+        <telNo>(212) 355-3550</telNo>
+        <checkInTime>Today 3:00 am - 6:00 pm</checkInTime>
+        <date>March 10,13</date>
+        <categoryId></categoryId>
+        <zipCode>10075</zipCode>
+        <noOfRooms>6</noOfRooms>
+        <bathrooms>8</bathrooms>
+        <apartmentType>New Homes</apartmentType>
+        <rating>4</rating>
+    </entry>
+    
+    <entry>
+        <id>5</id>
+		<title>80 Columbus Cir.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_005.jpg</imageThumbUrl>
+        <price>5,246</price>
+        <address>80 Columbus Cir., Manhattan</address>
+        <reviews>Overall, we were very pleased with this condominium!</reviews>
+        <latitude>40.769299</latitude>
+		<longitude>-73.982975</longitude>
+        <featured></featured>
+        <telNo>(212) 606-7660</telNo>
+        <checkInTime>Today 4:00 am - 7:00 pm</checkInTime>
+        <date>April 16,2013</date>
+        <categoryId></categoryId>
+        <zipCode>10019</zipCode>
+        <noOfRooms>4</noOfRooms>
+        <bathrooms>6</bathrooms>
+        <apartmentType>Foreclosures</apartmentType>
+        <rating>5</rating>
+    </entry>
+    
+    <entry>
+        <id>6</id>
+		<title>145 Hudson St.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_006.jpg</imageThumbUrl>
+        <price>3,017</price>
+        <address>145 Hudson St. - Apt:, PH, Manhattan</address>
+        <reviews>it was pretty amazing </reviews>
+        <latitude>40.721414</latitude>
+		<longitude>-74.008778</longitude>
+        <featured></featured>
+        <telNo> (212) 941-2500</telNo>
+        <checkInTime>Today 3:00 am - 6:00 pm</checkInTime>
+        <date>May 02,2013</date>
+        <categoryId></categoryId>
+        <zipCode>10013</zipCode>
+        <noOfRooms>4</noOfRooms>
+        <bathrooms>5</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>1</rating>
+    </entry>
+    
+    <entry>
+        <id>7</id>
+		<title>158 Mercer St.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_007.jpg</imageThumbUrl>
+        <price>5,607</price>
+        <address>158 Mercer St. - Apt:, PH, Manhattan</address>
+        <reviews>I have lived here for several years it is so good</reviews>
+        <latitude>40.725358</latitude>
+		<longitude>-73.998039</longitude>
+        <featured></featured>
+        <telNo>(212) 355-3550</telNo>
+        <checkInTime>Today 3:00 am - 6:00 pm</checkInTime>
+        <date>May 11, 2013</date>
+        <categoryId></categoryId>
+        <zipCode>10012</zipCode>
+        <noOfRooms>5</noOfRooms>
+        <bathrooms>6</bathrooms>
+        <apartmentType>New Homes</apartmentType>
+        <rating>2</rating>
+    </entry>
+    
+    <entry>
+        <id>8</id>
+		<title>33 West 56th St.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_008.jpg</imageThumbUrl>
+        <price>4,492</price>
+        <address>33 West 56th St., 1-PH, Manhattan</address>
+        <reviews> pretty amazing when it was under different management</reviews>
+        <latitude>40.763042</latitude>
+		<longitude>-73.975884</longitude>
+        <featured></featured>
+        <telNo> (212) 840-1616</telNo>
+        <checkInTime>Toady 11:00 a.m. to 6:00 p.m.</checkInTime>
+        <date>May 13,2013</date>
+        <categoryId></categoryId>
+        <zipCode>10019</zipCode>
+        <noOfRooms>10</noOfRooms>
+        <bathrooms>10</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>3</rating>
+    </entry>
+    
+    <entry>
+        <id>9</id>
+		<title>400 West 12th St.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_009.jpg</imageThumbUrl>
+        <price>8,169</price>
+        <address>400 West 12th St. 14 FL, Manhattan</address>
+        <reviews>What you have to remember with this apartment is that it's pretty old, probably at least 20-30 years .</reviews>
+        <latitude>40.737521</latitude>
+		<longitude>-74.009604</longitude>
+        <featured></featured>
+        <telNo>(212) 355-3550</telNo>
+        <checkInTime>Today 3:00 am - 6:00 pm</checkInTime>
+        <date>June 02,2013</date>
+        <categoryId></categoryId>
+        <zipCode>10014</zipCode>
+        <noOfRooms>8</noOfRooms>
+        <bathrooms>10</bathrooms>
+        <apartmentType>New Homes</apartmentType>
+        <rating>4</rating>
+    </entry>
+    
+    <entry>
+        <id>10</id>
+		<title>1 Central Park South</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_010.jpg</imageThumbUrl>
+        <price>9,662</price>
+        <address>1 Central Park South., 1707-1807, Manhattan</address>
+        <reviews>It is very good to lived with this it is so pretty</reviews>
+        <latitude>40.76522</latitude>
+		<longitude>-73.974425</longitude>
+        <featured></featured>
+        <telNo>(212) 253-0100</telNo>
+        <checkInTime>Today 3:00 am - 5:00 pm</checkInTime>
+        <date>June 04,2013</date>
+        <categoryId></categoryId>
+        <zipCode>10019</zipCode>
+        <noOfRooms>4</noOfRooms>
+        <bathrooms>5</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>5</rating>
+	</entry>
+    <!-- End New York -->
+    
+    
+    <!-- Begin Charlotte -->
+    <entry>
+        <id>11</id>
+		<title>4705 Ashley Park Ln</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_011.jpg</imageThumbUrl>
+        <price>3,186</price>
+        <address>4705 Ashley Park Ln 410, Charlotte, NC</address>
+        <reviews>I have been a resident for a while now, and i have never had a problem living here.I have been blessed with having a wonderful office stafft. hey are always friendly. The maintenence crew is wondeful, they do a very ggod job at getting the work done. I would recommend living here to averyone I know who is looking for a place. It is convenient to the stores, buses.</reviews>
+        <latitude>35.147326</latitude>
+		<longitude>-80.829044</longitude>
+        <featured>1</featured>
+        <telNo>(855) 347-9169</telNo>
+        <checkInTime>Today 8:00 am - 6:00 pm</checkInTime>
+        <date>February 01,2013</date>
+        <categoryId></categoryId>
+        <zipCode>28210</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>3</bathrooms>
+        <apartmentType>New Homes</apartmentType>
+        <rating>1</rating>
+	</entry>
+	
+	<entry>
+        <id>12</id>
+		<title>6638 Wakehurst Rd.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_012.jpg</imageThumbUrl>
+        <price>1,945</price>
+        <address>6638 Wakehurst Rd. Charlotte, NC</address>
+        <reviews>I have lived here for one year already and am staying for another year. Any problems that I had have been addressed relatively quickly by maintenance and/or the apartment staff. I almost never hear my neighbors and I live on</reviews>
+        <latitude>35.107559</latitude>
+		<longitude>-80.809152</longitude>
+        <featured>1</featured>
+        <telNo>(855) 347-9169 </telNo>
+        <checkInTime>Jan. 18, 2013</checkInTime>
+        <date>Today 6.00 am - 9.00 pm</date>
+        <categoryId></categoryId>
+        <zipCode>28226</zipCode>
+        <noOfRooms>4</noOfRooms>
+        <bathrooms>4</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>2</rating>
+	</entry>
+	
+	<entry>
+        <id>13</id>
+		<title>3214 Stratford Park Ct.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_013.jpg</imageThumbUrl>
+        <price>2,740</price>
+        <address>3214 Stratford Park Ct., Charlotte, NC</address>
+        <reviews>Great staff and lovely place to live. Highly recommended</reviews>
+        <latitude>35.14473</latitude>
+		<longitude>-80.828732</longitude>
+        <featured>1</featured>
+        <telNo>(855) 347-9169 </telNo>
+        <checkInTime>Today 6:00 am - 9:00 pm</checkInTime>
+        <date>Feb 28, 2013</date>
+        <categoryId></categoryId>
+        <zipCode>28210</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>3</bathrooms>
+        <apartmentType>New Homes</apartmentType>
+        <rating>3</rating>
+	</entry>
+	
+	<entry>
+        <id>14</id>
+		<title>3213 Stratford Park Ct.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_014.jpg</imageThumbUrl>
+        <price>2,538</price>
+        <address>3213 Stratford Park Ct., Charlotte, NC</address>
+        <reviews>Me and some of the other neighbors meet at the dog park every night and hang out and let our dogs run around which is a perk if you are a dog owner. You get to meet a lot</reviews>
+        <latitude>35.144668</latitude>
+		<longitude>-80.82855</longitude>
+        <featured></featured>
+        <telNo>(855) 347-9169</telNo>
+        <checkInTime>Today 6:00 am - 9:00 pm</checkInTime>
+        <date>Mar 19, 2013</date>
+        <categoryId></categoryId>
+        <zipCode>28210</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>4</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>4</rating>
+	</entry>
+	
+	<entry>
+        <id>15</id>
+		<title>701 Royal Ct.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_015.jpg</imageThumbUrl>
+        <price>2,145</price>
+        <address>701 Royal Ct., Charlotte, NC</address>
+        <reviews>We simply found an Condominium closer to our children's school. Your staff was amazing and so helpful. Very professional</reviews>
+        <latitude>35.216768</latitude>
+		<longitude>-80.844515</longitude>
+        <featured></featured>
+        <telNo>(855) 346-3074</telNo>
+        <checkInTime>Today 6:00 am - 9:00 pm</checkInTime>
+        <date>Jan 31, 2013</date>
+        <categoryId></categoryId>
+        <zipCode>28202</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Rentals</apartmentType>
+        <rating>5</rating>
+	</entry>
+	
+	<entry>
+        <id>16</id>
+		<title>6638 Wakehurst Rd.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_001.jpg</imageThumbUrl>
+        <price>1,945</price>
+        <address>6638 Wakehurst Rd., Charlotte, NC</address>
+        <reviews>It is pretty , safe and friendly.</reviews>
+        <latitude>35.107594</latitude>
+		<longitude>-80.809088</longitude>
+        <featured></featured>
+        <telNo>(855) 347-9169</telNo>
+        <checkInTime>Today 6:00 am -9:00 pm</checkInTime>
+        <date>Jan. 30, 2013</date>
+        <categoryId></categoryId>
+        <zipCode>28226</zipCode>
+        <noOfRooms>4</noOfRooms>
+        <bathrooms>4</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>1</rating>
+	</entry>
+	
+	<entry>
+        <id>17</id>
+		<title>435 S. Tryon St.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_002.jpg</imageThumbUrl>
+        <price>1,852</price>
+        <address>435 S. Tryon St., Charlotte, NC</address>
+        <reviews>Clean, great location, safe, great staff and people living there</reviews>
+        <latitude>35.225155</latitude>
+		<longitude>-80.845984</longitude>
+        <featured></featured>
+        <telNo>(855) 346-3078</telNo>
+        <checkInTime>Today 8:00 am - 9;00 pm</checkInTime>
+        <date>Apr 5, 2013</date>
+        <categoryId></categoryId>
+        <zipCode>28202</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Rentals</apartmentType>
+        <rating>2</rating>
+	</entry>
+	
+	<entry>
+        <id>18</id>
+		<title>7940 Greenview Terrace Ct.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_003.jpg</imageThumbUrl>
+        <price>1,852</price>
+        <address>7940 Greenview Terrace Ct., Charlotte, NC</address>
+        <reviews>We simply found an apartment closer to our children's school. Your staff was amazing and so helpful. Very professional.</reviews>
+        <latitude>35.09498</latitude>
+		<longitude>35.09498</longitude>
+        <featured></featured>
+        <telNo>(855) 346-3074 </telNo>
+        <checkInTime>Today 6:00 am - 9:00 pm</checkInTime>
+        <date>Mar 28, 2013</date>
+        <categoryId></categoryId>
+        <zipCode>28277</zipCode>
+        <noOfRooms>4</noOfRooms>
+        <bathrooms>5</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>3</rating>
+	</entry>
+	
+	<entry>
+        <id>19</id>
+		<title>6630 Gaywind Dr.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_004.jpg</imageThumbUrl>
+        <price>1,756</price>
+        <address>6630 Gaywind Dr., Charlotte, NC 28226</address>
+        <reviews>Always a pleasure to work with, maintenance and office staff :)</reviews>
+        <latitude>35.225939</latitude>
+		<longitude>35.225939</longitude>
+        <featured></featured>
+        <telNo>(855) 347-9169</telNo>
+        <checkInTime>Today 6:00 am - 9:00 pm</checkInTime>
+        <date> Jan. 8, 2013</date>
+        <categoryId></categoryId>
+        <zipCode>28226</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>4</bathrooms>
+        <apartmentType>Rentals</apartmentType>
+        <rating>4</rating>
+	</entry>
+	
+	<entry>
+        <id>20</id>
+		<title>8940 Challis Hill Ln.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_005.jpg</imageThumbUrl>
+        <price>1,630</price>
+        <address>8940 Challis Hill Ln., Charlotte, NC </address>
+        <reviews>Friendly people and nice living environment</reviews>
+        <latitude>35.08585</latitude>
+		<longitude>-80.822778</longitude>
+        <featured></featured>
+        <telNo>(855) 347-9169</telNo>
+        <checkInTime>Today 6:00 am - 9:00 pm</checkInTime>
+        <date> Mar 28, 2013</date>
+        <categoryId></categoryId>
+        <zipCode>28226</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>4</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>5</rating>
+	</entry>
+    <!-- End Charlotte -->
+    
+    
+    <!-- Begin San Francisco -->
+    <entry>
+        <id>21</id>
+		<title>357 Tehama St., 4, San Francisco</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_006.jpg</imageThumbUrl>
+        <price>1,801</price>
+        <address>357 Tehama St., 4, San Francisco, CA </address>
+        <reviews>his is my favorite home so far! The neighborhood is amazing, I love my condo and I am happy with the customer service that I have received. I give it a big thumbs up!</reviews>
+        <latitude>37.781993</latitude>
+		<longitude>122.403467</longitude>
+        <featured>1</featured>
+        <telNo>(877) 731-1029</telNo>
+        <checkInTime>Today 3:00 am - 5:00 pm</checkInTime>
+        <date>default</date>
+        <categoryId></categoryId>
+        <zipCode>94103</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>3</bathrooms>
+        <apartmentType>Rentals</apartmentType>
+        <rating>1</rating>
+	</entry>
+    
+    <entry>
+        <id>22</id>
+		<title>41 Federal St., 23, San Francisco</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_007.jpg</imageThumbUrl>
+        <price>5,539</price>
+        <address>41 Federal St., 23, San Francisco, CA</address>
+        <reviews>I love living in the condo</reviews>
+        <latitude>37.784062</latitude>
+		<longitude>122.391579</longitude>
+        <featured>1</featured>
+        <telNo>(877) 731-1029</telNo>
+        <checkInTime>Today 4:00 am - 4:00 pm</checkInTime>
+        <date>07/27/2007</date>
+        <categoryId>Default</categoryId>
+        <zipCode>94107</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>2</rating>
+	</entry>
+    
+    <entry>
+        <id>23</id>
+		<title>355 Bryant St., 409, San Francisco</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_008.jpg</imageThumbUrl>
+        <price>5,372</price>
+        <address>355 Bryant St., 409, San Francisco, CA</address>
+        <reviews>I love my condo in winter beach with the attached garage</reviews>
+        <latitude>37.783842</latitude>
+		<longitude>122.392566</longitude>
+        <featured>1</featured>
+        <telNo>(877) 731-1029</telNo>
+        <checkInTime>Today 9:00 am - 4:00 pm</checkInTime>
+        <date>06/15/2007</date>
+        <categoryId>Default</categoryId>
+        <zipCode>94107</zipCode>
+        <noOfRooms>1</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Rentals</apartmentType>
+        <rating>3</rating>
+	</entry>
+    
+    <entry>
+        <id>24</id>
+		<title>181 South Park</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_009.jpg</imageThumbUrl>
+        <price>5,372</price>
+        <address>181 South Park, 4, San Francisco, CA </address>
+        <reviews>Can't beat the views... </reviews>
+        <latitude>37.780959</latitude>
+		<longitude>122.394454</longitude>
+        <featured></featured>
+        <telNo>(877) 731-1029</telNo>
+        <checkInTime>Today 6:00 am - 6:00 pm</checkInTime>
+        <date>07/01/2005</date>
+        <categoryId>Default</categoryId>
+        <zipCode>94107</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>4</rating>
+	</entry>
+    
+    <entry>
+        <id>25</id>
+		<title>3178 Washington St.,</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_010.jpg</imageThumbUrl>
+        <price>5,168</price>
+        <address>3178 Washington St., San Francisco, CA</address>
+        <reviews>condo is my favorite place to live</reviews>
+        <latitude>37.781993</latitude>
+		<longitude>122.403467</longitude>
+        <featured></featured>
+        <telNo>(877) 731-1029</telNo>
+        <checkInTime>Today 7:00 am - 7:00 pm</checkInTime>
+        <date>06/21/2007</date>
+        <categoryId>default</categoryId>
+        <zipCode>94115</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>32</bathrooms>
+        <apartmentType>Rentals</apartmentType>
+        <rating>5</rating>
+    </entry>
+    
+    <entry>
+        <id>26</id>
+		<title>1 Bluxome St.,</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_011.jpg</imageThumbUrl>
+        <price>4,798</price>
+        <address>1 Bluxome St., 403, San Francisco, CA</address>
+        <reviews>I have lived here for several years, and it was pretty amazing when it was under different management.</reviews>
+        <latitude>37.777669</latitude>
+		<longitude>122.395549</longitude>
+        <featured></featured>
+        <telNo>(877) 731-1029</telNo>
+        <checkInTime>Today 9:00 am -9:00 pm</checkInTime>
+        <date>03/05/2013</date>
+        <categoryId>default</categoryId>
+        <zipCode>94107</zipCode>
+        <noOfRooms>1</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>1</rating>
+	</entry>
+    
+    <entry>
+        <id>27</id>
+		<title>733 Kirkham, San Francisco</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_012.jpg</imageThumbUrl>
+        <price>3,838</price>
+        <address>733 Kirkham, San Francisco, CA</address>
+        <reviews>wonderful condo</reviews>
+        <latitude>37.760452</latitude>
+		<longitude>122.468913</longitude>
+        <featured></featured>
+        <telNo>(877) 731-1029</telNo>
+        <checkInTime>Today 5:00 am - 5:00 pm</checkInTime>
+        <date>03/13/2013</date>
+        <categoryId>default</categoryId>
+        <zipCode>94122</zipCode>
+        <noOfRooms>4</noOfRooms>
+        <bathrooms>3</bathrooms>
+        <apartmentType>Rentals</apartmentType>
+        <rating>2</rating>
+	</entry>
+    
+    <entry>
+        <id>28</id>
+		<title>650 2nd St., 204,</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_013.jpg</imageThumbUrl>
+        <price>3,686</price>
+        <address>650 2nd St., 204, San Francisco, CA </address>
+        <reviews>I really loved this place</reviews>
+        <latitude>37.781993</latitude>
+		<longitude>122.403467</longitude>
+        <featured></featured>
+        <telNo>(877) 731-1029 </telNo>
+        <checkInTime>Today 7:00 am - 7:00 pm</checkInTime>
+        <date>01/30/2007</date>
+        <categoryId>default</categoryId>
+        <zipCode>94107</zipCode>
+        <noOfRooms>1</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>3</rating>
+    </entry>
+    
+    <entry>
+        <id>29</id>
+		<title>899 North Point, 1,</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_014.jpg</imageThumbUrl>
+        <price>3,516</price>
+        <address>899 North Point, 1, San Francisco, CA </address>
+        <reviews>I have lived here for several years, and it was pretty amazing when it was under different management.</reviews>
+        <latitude>37.805715</latitude>
+		<longitude>122.421706</longitude>
+        <featured></featured>
+        <telNo>(877) 731-1029</telNo>
+        <checkInTime>Today 5:00 am  - 8:00 pm</checkInTime>
+        <date>03/05/2013</date>
+        <categoryId>default</categoryId>
+        <zipCode>94109</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Foreclosures</apartmentType>
+        <rating>4</rating>
+	</entry>
+	
+	<entry>
+        <id>30</id>
+		<title>2295 Vallejo St., 401,</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_015.jpg</imageThumbUrl>
+        <price>3,334</price>
+        <address>2295 Vallejo St., 401, San Francisco, CA</address>
+        <reviews>Im happy to lived this kind of place</reviews>
+        <latitude>37.795373</latitude>
+		<longitude>122.434773</longitude>
+        <featured></featured>
+        <telNo>(877) 731-1029</telNo>
+        <checkInTime>Today 6:00 am - 6:00 pm</checkInTime>
+        <date>05/18/1976</date>
+        <categoryId>default</categoryId>
+        <zipCode>94123</zipCode>
+        <noOfRooms>1</noOfRooms>
+        <bathrooms>1</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>5</rating>
+	</entry>
+    <!-- End San Francisco -->
+    
+    
+    <!-- Begin Atlantic -->
+    <entry>
+        <id>31</id>
+		<title>3101 Boardwalk, 3401-II</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_001.jpg</imageThumbUrl>
+        <price>6,863</price>
+        <address>3101 Boardwalk, 3401-II, Atlantic City, NJ 08401</address>
+        <reviews>This place is perfect for anyone who has goals and dreams. The cost of rent is a fraction of any regular apt. What i recall contracts are less than 6 years. Enough time to earn a college degree or start your own buisness units are very clean and safe one entrance w/guard.</reviews>
+        <latitude>39.352203</latitude>
+		<longitude>-74.447997</longitude>
+        <featured>1</featured>
+        <telNo>(215) 545-5375</telNo>
+        <checkInTime>Today 9:00 am - 8:00 pm</checkInTime>
+        <date>default</date>
+        <categoryId></categoryId>
+        <zipCode>08401</zipCode>
+        <noOfRooms>4</noOfRooms>
+        <bathrooms>4</bathrooms>
+        <apartmentType>New Homes</apartmentType>
+        <rating>1</rating>
+	</entry>
+    
+    <entry>
+        <id>32</id>
+		<title>3101 Boardwalk, Ph 3402-I, 3402T1</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_002.jpg</imageThumbUrl>
+        <price>5,835</price>
+        <address>3101 Boardwalk, Ph 3402-I, 3402T1, Atlantic City, NJ 08401</address>
+        <reviews>With an unmatched combination of price, location, and amenities, we are one of the top apartment communities in the area.</reviews>
+        <latitude>39.35227</latitude>
+		<longitude>-74.447938</longitude>
+        <featured>1</featured>
+        <telNo>(609) 345-3101</telNo>
+        <checkInTime>Today 8 am - 7 pm</checkInTime>
+        <date>default</date>
+        <categoryId></categoryId>
+        <zipCode>08401</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>3</bathrooms>
+        <apartmentType>New Homes</apartmentType>
+        <rating>2</rating>
+	</entry>
+    
+    <entry>
+        <id>33</id>
+		<title>526 Pacific Avenue</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_003.jpg</imageThumbUrl>
+        <price>3,686</price>
+        <address>526 Pacific Avenue, Atlantic City, NJ 08401</address>
+        <reviews>With an unmatched combination of price, location, and amenities, we are one of the top apartment communities in the area. </reviews>
+        <latitude>39.364648</latitude>
+		<longitude>-74.416335</longitude>
+        <featured>1</featured>
+        <telNo>(866) 441-4649</telNo>
+        <checkInTime>Today 7 am - 6 pm</checkInTime>
+        <date>default</date>
+        <categoryId></categoryId>
+        <zipCode>08401</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Rentals</apartmentType>
+        <rating>3</rating>
+	</entry>
+	
+    <entry>
+        <id>34</id>
+		<title>100 S. Berkley Square, 9E</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_004.jpg</imageThumbUrl>
+        <price>2,130</price>
+        <address>100 S. Berkley Square, 9E, Atlantic City, NJ 08401</address>
+        <reviews>beautifully landscaped grounds · private entrances · full size · size washers · townhomes apartments.</reviews>
+        <latitude>39.345128</latitude>
+		<longitude>-74.462608</longitude>
+        <featured></featured>
+        <telNo>(609) 822-4200</telNo>
+        <checkInTime>Today 8 am - 9 pm</checkInTime>
+        <date>default</date>
+        <categoryId></categoryId>
+        <zipCode>08401</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Foreclosures</apartmentType>
+        <rating>4</rating>
+	</entry>
+	
+    <entry>
+        <id>35</id>
+		<title>101 S. Plaza Pl., 804, Atlantic City, NJ 08401</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_005.jpg</imageThumbUrl>
+        <price>1,945</price>
+        <address>101 S. Plaza Pl., 804, Atlantic City, NJ 08401</address>
+        <reviews>hat a great place! the best part is that it is a block away from the beach and the boardwalk. our room had a nice balcony which was a great place to ...</reviews>
+        <latitude>39.345012</latitude>
+		<longitude>-74.463102</longitude>
+        <featured></featured>
+        <telNo>(609) 822-3339</telNo>
+        <checkInTime>Today 8 am - 8 pm</checkInTime>
+        <date>default</date>
+        <categoryId></categoryId>
+        <zipCode>08401</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>5</rating>
+	</entry>
+	
+    <entry>
+        <id>36</id>
+		<title>57 Chelsea Ct.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_006.jpg</imageThumbUrl>
+        <price>1,778</price>
+        <address>57 Chelsea Ct., Atlantic City, NJ 08401</address>
+        <reviews>When we first walked to the condo it was completely filthy...on the outside there was an old broken down vehicle next to our place and the door had ... </reviews>
+        <latitude>39.352221</latitude>
+		<longitude>-74.459411</longitude>
+        <featured></featured>
+        <telNo>(609) 822-3300</telNo>
+        <checkInTime>Today 7 am - 7 pm</checkInTime>
+        <date>default</date>
+        <categoryId></categoryId>
+        <zipCode>08401</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>3</bathrooms>
+        <apartmentType>Foreclosures</apartmentType>
+        <rating>1</rating>
+	</entry>
+	
+    <entry>
+        <id>37</id>
+		<title>35 Chelsea Ct.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_007.jpg</imageThumbUrl>
+        <price>1,575</price>
+        <address>35 Chelsea Ct., Atlantic City, NJ 08401</address>
+        <reviews>We later played roof-top golf on the boardwalk where Rich once again beat Dave and I had a shocker although got the most hole in ones which I took as a ...</reviews>
+        <latitude>39.352387</latitude>
+		<longitude>-74.458435</longitude>
+        <featured></featured>
+        <telNo>(609) 822-3300</telNo>
+        <checkInTime>Today 8 am - 7 pm</checkInTime>
+        <date>default</date>
+        <categoryId></categoryId>
+        <zipCode>08401</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>3</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>2</rating>
+	</entry>
+	
+    <entry>
+        <id>38</id>
+		<title>61 N. Chelsea Ct.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_008.jpg</imageThumbUrl>
+        <price>1,593</price>
+        <address>61 N. Chelsea Ct., Atlantic City, NJ 08401</address>
+        <reviews>Overall, we were very pleased with this apartment! What you have to remember with this apartment is that it's pretty old, probably at least 20-30 years ...</reviews>
+        <latitude>39.355299</latitude>
+		<longitude>-74.44997</longitude>
+        <featured></featured>
+        <checkInTime>Today 7 am - 9 pm</checkInTime>
+        <telNo>(609) 822-3300</telNo>
+        <date>default</date>
+        <categoryId></categoryId>
+        <zipCode>08401</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>3</bathrooms>
+        <apartmentType>Foreclosures</apartmentType>
+        <rating>3</rating>
+	</entry>
+	
+    <entry>
+        <id>39</id>
+		<title>Model A in Bella </title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_009.jpg</imageThumbUrl>
+        <price>1,334</price>
+        <address>Model A in Bella (Atlantic City, NJ 08401)</address>
+        <reviews>Although we previously stayed in an efficiency apartment, we chose a room for 2 on the top floor overlooking the lower pool, with a king-sized bed, ...</reviews>
+        <latitude>40.103082</latitude>
+		<longitude>-75.145836</longitude>
+        <featured></featured>
+        <telNo>(609) 344-8700</telNo>
+        <checkInTime>Today 9 am - 10 pm</checkInTime>
+        <date>default</date>
+        <categoryId></categoryId>
+        <zipCode>08401</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>4</rating>
+	</entry>
+	
+    <entry>
+        <id>40</id>
+		<title>539 N. New Jersey Ave.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_010.jpg</imageThumbUrl>
+        <price>1,426</price>
+        <address>539 N. New Jersey Ave., Atlantic City, NJ 08401</address>
+        <reviews>The pictures on the site doesnt show you updated pictures. The rooms need some work but overall its ok for the price and its right on the broadwalk.</reviews>
+        <latitude>39.374103</latitude>
+		<longitude>-74.424542</longitude>
+        <featured></featured>
+        <telNo>(609) 518-2277</telNo>
+        <checkInTime>Today 7 am - 9 pm</checkInTime>
+        <date>default</date>
+        <categoryId></categoryId>
+        <zipCode>08401</zipCode>
+        <noOfRooms>4</noOfRooms>
+        <bathrooms>4</bathrooms>
+        <apartmentType>New Homes</apartmentType>
+        <rating>5</rating>
+	</entry>
+    <!-- End Atlantic -->
+    
+    
+    <!-- Begin Los Angeles -->
+    <entry>
+        <id>41</id>
+		<title>10490 Wilshire Blvd.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_011.jpg</imageThumbUrl>
+        <price>5,546</price>
+        <address>10490 Wilshire Blvd., 2104, Los Angeles, CA 90024</address>
+        <reviews>Our stay at the Beverly Hills Four Season surpassed our expectations. Our stay with our kids was personalized. Cookies and milk were awaiting        them on our arrival. My kids loved the children size robes and slippers. </reviews>
+        <latitude>34.065157</latitude>
+		<longitude>-118.431158</longitude>
+        <featured>1</featured>
+        <telNo>(855) 262-2404</telNo>
+        <checkInTime>Today 9:00 am - 5:00 pm</checkInTime>
+        <date>April 17,2013</date>
+        <categoryId></categoryId>
+        <zipCode>90024</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>9</bathrooms>
+        <apartmentType>Foreclosures</apartmentType>
+        <rating>1</rating>
+	</entry>
+    
+	<entry>
+        <id>42</id>
+		<title>10380 Wilshire</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_012.jpg</imageThumbUrl>
+        <price>8,837</price>
+        <address>10380 Wilshire, 703, Los Angeles, CA 90024</address>
+        <reviews>We stayed at this property for thirteen years before the renovation and this was our first visit back to see the changes. I can sum up my        thoughts in one word....FABULOUS</reviews>
+        <latitude>34.067378</latitude>
+		<longitude>-118.427768</longitude>
+        <featured>1</featured>
+        <telNo>(855) 262-2404</telNo>
+        <checkInTime>Today 5:00 am - 6:00 pm</checkInTime>
+        <date>April 17,2013</date>
+        <categoryId></categoryId>
+        <zipCode>90024</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>4</bathrooms>
+        <apartmentType>Foreclosures</apartmentType>
+        <rating>2</rating>
+	</entry>
+    
+    <entry>
+        <id>43</id>
+		<title>10580 Wilshire</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_013.jpg</imageThumbUrl>
+        <price>7,096</price>
+        <address>10580 Wilshire, 8NW, Los Angeles, CA 90024</address>
+        <reviews>I love the redecoration of this hotel.We were bumped up to a lovely suite which was very private and quiet.We had a beautiful living room with        flat screen TV over the gas fireplace.</reviews>
+        <latitude>34.061904</latitude>
+		<longitude>-118.432724</longitude>
+        <featured>1</featured>
+        <telNo>(855) 262-2404</telNo>
+        <checkInTime>Today 6:00 am - 4:00 pm</checkInTime>
+        <date>April 17,2013</date>
+        <categoryId></categoryId>
+        <zipCode>90024</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>4</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>3</rating>
+	</entry>
+    
+    <entry>
+        <id>44</id>
+		<title>9255 Doheny Rd.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_014.jpg</imageThumbUrl>
+        <price>5,355</price>
+        <address>9255 Doheny Rd., 1202, West Hollywood, CA 90069</address>
+        <reviews>This was an unexpected surprise as my Omni experience elsewhere hasn't been great. The staff was excellent, the rooms very clean and well        maintained and best of all quiet.</reviews>
+        <latitude>34.091887</latitude>
+		<longitude>-118.393843</longitude>
+        <featured></featured>
+        <telNo>(855) 262-2404</telNo>
+        <checkInTime>Today 9:00 am - 5:00 pm</checkInTime>
+        <date>April 17,2013</date>
+        <categoryId></categoryId>
+        <zipCode>90069</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>3</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>4</rating>
+	</entry>
+    
+    <entry>
+        <id>45</id>
+		<title>Los Angeles</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_015.jpg</imageThumbUrl>
+        <price>6,761</price>
+        <address>Los Angeles, CA 90067</address>
+        <reviews>A spontaneous urge to get some city vibes, see some good art, spoil each other and be spoiled made us check the L.A. Downtown hotel        opportunities and the deal and location Omni offered appealed the most to us.</reviews>
+        <latitude>34.059166</latitude>
+		<longitude>-118.414721</longitude>
+        <featured></featured>
+        <telNo>(877) 655-5197</telNo>
+        <checkInTime>Today 5:00 am - 6:00 pm</checkInTime>
+        <date>Jan. 19,2013</date>
+        <categoryId></categoryId>
+        <zipCode>90067</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>6</bathrooms>
+        <apartmentType>Rentals</apartmentType>
+        <rating>5</rating>
+	</entry>
+    
+    <entry>
+        <id>46</id>
+		<title>10750 Wilshire</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_001.jpg</imageThumbUrl>
+        <price>5,743</price>
+        <address>10750 Wilshire, 1802, Los Angeles, CA 90024</address>
+        <reviews>Yes a little quiet at the weekend at the hotel, but what's wrong with that ? 5 star accommodation, excellent and friendly service, good sized        and very comfortable rooms, for around $ 200 per night for a king size room. </reviews>
+        <latitude>34.060375</latitude>
+		<longitude>-118.43811</longitude>
+        <featured></featured>
+        <telNo>(855) 262-2404</telNo>
+        <checkInTime>Today 6:00 am - 4:00 pm</checkInTime>
+        <date>Oct. 17, 2012</date>
+        <categoryId></categoryId>
+        <zipCode>90024</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>3</bathrooms>
+        <apartmentType>Rentals</apartmentType>
+        <rating>1</rating>
+	</entry>
+    
+    <entry>
+        <id>47</id>
+		<title>8787 Shoreham Dr.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_002.jpg</imageThumbUrl>
+        <price>5,550</price>
+        <address>8787 Shoreham Dr., West Hollywood, CA 90069</address>
+        <reviews>Rooms are clean and nicely decorated. Was not feeling well so ate in the bar. The food was exceptional (even the grilled cheese was amazing)        and we loved the piano music. </reviews>
+        <latitude>34.093166</latitude>
+		<longitude>-118.382943</longitude>
+        <featured></featured>
+        <telNo>(877) 655-7963</telNo>
+        <checkInTime>Today 5:00 am - 6:00 pm</checkInTime>
+        <date>April 17,2013</date>
+        <categoryId></categoryId>
+        <zipCode>90069</zipCode>
+        <noOfRooms>1</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>2</rating>
+	</entry>
+    
+    <entry>
+        <id>48</id>
+		<title>308 N. Sycamore Ave.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_003.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_003.jpg</imageThumbUrl>
+        <price>5,539</price>
+        <address>308 N. Sycamore Ave., 408, Los Angeles, CA 90036</address>
+        <reviews>Clean, quiet rooms, excellent food from room service -- and the most cheerful, courteous, and efficient staff ever (from the front desk to the        room service to the bartender).</reviews>
+        <latitude>34.077136</latitude>
+		<longitude>-118.342495</longitude>
+        <featured></featured>
+        <telNo>(855) 262-2404</telNo>
+        <checkInTime>Today 9:00 am - 5:00 pm</checkInTime>
+        <date>Nov.26,2012</date>
+        <categoryId></categoryId>
+        <zipCode>90036</zipCode>
+        <noOfRooms>3</noOfRooms>
+        <bathrooms>4</bathrooms>
+        <apartmentType>Condominium</apartmentType>
+        <rating>3</rating>
+	</entry>
+    
+    <entry>
+        <id>49</id>
+		<title>9255 Doheny Rd.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_001.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_004.jpg</imageThumbUrl>
+        <price>5,539</price>
+        <address>9255 Doheny Rd., 1903, West Hollywood, CA 90069</address>
+        <reviews>Quick courteous check in,changed room at front desk,15 th floor corner room, much larger.....front desk glad to assist you King bed, nice        side bathroom, shower and tub,would have rather had larger shower than both.</reviews>
+        <latitude>34.091247</latitude>
+		<longitude>-118.393929</longitude>
+        <featured></featured>
+        <telNo>(855) 262-2404</telNo>
+        <checkInTime>Today 5:00 am - 6:00 pm</checkInTime>
+        <date>March 25,2013</date>
+        <categoryId></categoryId>
+        <zipCode>90069</zipCode>
+        <noOfRooms>1</noOfRooms>
+        <bathrooms>2</bathrooms>
+        <apartmentType>Rentals</apartmentType>
+        <rating>4</rating>
+	</entry>
+    
+    <entry>
+        <id>50</id>
+		<title>818 N. Doheny Dr.</title>
+		<imageUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/sliderFeatured320x190_002.jpg</imageUrl>
+        <imageThumbUrl>http://labs.philippineglobaloutsourcing.com/apartmentpro/datav2/listThumbApartments50x50_005.jpg</imageThumbUrl>
+        <price>5,539</price>
+        <address>818 N. Doheny Dr., 1402, West Hollywood, CA 90069</address>
+        <reviews>I love this place! The service is amazing and so is the food! The pool table is such fun! I really got alot of personal attention when it came        to your concierge services. </reviews>
+        <latitude>34.085969</latitude>
+		<longitude>-118.389316</longitude>
+        <featured></featured>
+        <telNo>(877) 670-0431</telNo>
+        <checkInTime>Today 5:00 am - 6:00 pm</checkInTime>
+        <date>March 15,2013</date>
+        <categoryId></categoryId>
+        <zipCode>90069</zipCode>
+        <noOfRooms>2</noOfRooms>
+        <bathrooms>3</bathrooms>
+        <apartmentType>Rentals</apartmentType>
+        <rating>5</rating>
+	</entry>
+    <!-- End Los Angeles -->
+    
+</entries>
